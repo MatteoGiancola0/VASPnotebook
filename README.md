@@ -48,4 +48,4 @@ This repository is licensed under the **MIT License**.
 
 - **Wannier90**: Mostofi, A. A., et al. "Wannier90: A tool for obtaining maximally-localised Wannier functions." *Computer Physics Communications* 178.9 (2008): 685-699. [http://www.wannier.org](http://www.wannier.org)
 
-- **Bands4VASP**: [https://github.com/giovannipizzi/bands4vasp](https://github.com/giovannipizzi/bands4vasp)
+- **Bands4VASP**: [QuantumMaterialsModelling/bands4vasp GitHub repository](https://github.com/QuantumMaterialsModelling/bands4vasp)
