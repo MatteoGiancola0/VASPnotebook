@@ -45,6 +45,7 @@
 This repository is licensed under the **MIT License**.
 
 ## References
+- **VASP**: Kresse, G. & Furthmüller, J. "Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set." *Phys. Rev. B* 54, 11169 (1996). [https://www.vasp.at](https://www.vasp.at)
 
 - **Wannier90**: Mostofi, A. A., et al. "Wannier90: A tool for obtaining maximally-localised Wannier functions." *Computer Physics Communications* 178.9 (2008): 685-699. [http://www.wannier.org](http://www.wannier.org)
 
